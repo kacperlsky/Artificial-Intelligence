@@ -1,6 +1,6 @@
 # Artificial-Intelligence
 
-# Project 1: Search 
+## Project 1: Search 
 
 #### In this project informed, uninformed and local search algorithms were built and applied to Pacman environment. Files containing my implementations are **search.py, searchAgents.py, solveEightQueens.py**
 #### Following solutions and answers to questions were implemented:
@@ -15,7 +15,7 @@ Problem
 Problem
 7. Food Heuristic
 
-# Project 2: Multi-Agent Search
+## Project 2: Multi-Agent Search
 #### In this project various AI techniques for Pacman and Tic-Tac-Toe were implemented. Files containing my implementations are **multiAgents.py, solveTicTacToe.py**
 #### Following solutions and answers to questions were implemented:
 1. Reflex Agent
@@ -25,7 +25,7 @@ Problem
 5. Better Evaluation Function
 6. 3-Board Misere Tic-Tac-Toe(Notakto)
 
-# Project 3: Reinforcement Learning
+## Project 3: Reinforcement Learning
 #### This project presents my implementation for value iteration and Q-learning. They were tested in different environments: grid, a simulated robot controller (Crawler) and Pacman. Files containing my implementations are **valueIterationAgents.py, qlearningAgents.py and analysis.py**.
 #### Following solutions and answers to questions were implemented:
 1. Value Iteration
@@ -37,7 +37,7 @@ Problem
 7. Q-Learning and Pacman
 8. Approximate Q-Learning
 
-# Project 4: Ghostbusters
+## Project 4: Ghostbusters
 #### In this project, you will design Pacman agents that use sensors to locate and eat invisible ghosts. You'll advance from locating single, stationary ghosts to hunting packs of multiple moving ghosts with ruthless efficiency. Files containing my implementations are **bustersAgents.py and inference.py**.
 #### Following solutions and answers to questions were implemented:
 1. Exact Inference Observation
