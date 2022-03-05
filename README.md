@@ -38,7 +38,7 @@ Problem
 8. Approximate Q-Learning
 
 ## Project 4: Ghostbusters
-#### In this project, you will design Pacman agents that use sensors to locate and eat invisible ghosts. You'll advance from locating single, stationary ghosts to hunting packs of multiple moving ghosts with ruthless efficiency. Files containing my implementations are **bustersAgents.py and inference.py**.
+#### In this project, code was designed for Pacman agents that use sensors to locate and eat invisible ghosts. Beginning from locating single, stationary ghosts its progression allowed for hunting packs of multiple moving ghosts with ruthless efficiency. Files containing my implementations are **bustersAgents.py and inference.py**.
 #### Following solutions and answers to questions were implemented:
 1. Exact Inference Observation
 2. Exact Inference with Time Elapse
