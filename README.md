@@ -1,7 +1,7 @@
 # Artificial-Intelligence
 
 # Project 1: 
-### In this project informed, uninformed and local search algorithms were built and applied to Pacman environment. Files containing my implementations are **search.py, searchAgents.py, solveEightQueens.py**
+#### In this project informed, uninformed and local search algorithms were built and applied to Pacman environment. Files containing my implementations are **search.py, searchAgents.py, solveEightQueens.py**
 #### Following solutions and answers to questions were implemented:
 1. Depth First Search
 2. Breadth First Search
@@ -15,7 +15,7 @@ Problem
 7. Food Heuristic
 
 # Project 2: 
-### In this project various AI techniques for Pacman and Tic-Tac-Toe were implemented. Files containing my implementations are **multiAgents.py, solveTicTacToe.py**
+#### In this project various AI techniques for Pacman and Tic-Tac-Toe were implemented. Files containing my implementations are **multiAgents.py, solveTicTacToe.py**
 #### Following solutions and answers to questions were implemented:
 1. Reflex Agent
 2. Minimax
@@ -25,7 +25,7 @@ Problem
 6. 3-Board Misere Tic-Tac-Toe(Notakto)
 
 # Project 3:
-### This project presents my implementation for value iteration and Q-learning. They were tested in different environments: grid, a simulated robot controller (Crawler) and Pacman. Files containing my implementations are **valueIterationAgents.py, qlearningAgents.py and analysis.py**.
+#### This project presents my implementation for value iteration and Q-learning. They were tested in different environments: grid, a simulated robot controller (Crawler) and Pacman. Files containing my implementations are **valueIterationAgents.py, qlearningAgents.py and analysis.py**.
 #### Following solutions and answers to questions were implemented:
 1. Value Iteration
 2. Bridge Crossing Analysis
@@ -37,7 +37,7 @@ Problem
 8. Approximate Q-Learning
 
 # Project 4:
-### In this project, you will design Pacman agents that use sensors to locate and eat invisible ghosts. You'll advance from locating single, stationary ghosts to hunting packs of multiple moving ghosts with ruthless efficiency. Files containing my implementations are **bustersAgents.py and inference.py**.
+#### In this project, you will design Pacman agents that use sensors to locate and eat invisible ghosts. You'll advance from locating single, stationary ghosts to hunting packs of multiple moving ghosts with ruthless efficiency. Files containing my implementations are **bustersAgents.py and inference.py**.
 #### Following solutions and answers to questions were implemented:
 1. Exact Inference Observation
 2. Exact Inference with Time Elapse
